@@ -19,6 +19,8 @@
 
 [Classification and regression](https://github.com/sophus0505/Classification-and-Regression)
 
+[The travelling salesman problem](https://github.com/sophus0505/Travelling-Salesman-Problem)
+
 
 <!---
 sophus0505/sophus0505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
