@@ -17,6 +17,9 @@
 
 [Simulating a Penning trap](https://github.com/sophus0505/Penning-Trap)
 
+## Python 
+
+[Principal component analysis](https://github.com/sophus0505/Principal-Component-Analysis)
 
 
 <!---
