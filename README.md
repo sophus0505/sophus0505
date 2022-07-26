@@ -21,6 +21,8 @@
 
 [Principal component analysis](https://github.com/sophus0505/Principal-Component-Analysis)
 
+[Classification and regression](https://github.com/sophus0505/Classification-and-Regression)
+
 
 <!---
 sophus0505/sophus0505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
