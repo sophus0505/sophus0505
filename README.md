@@ -1,6 +1,7 @@
-# 👋 Hi, I’m @sophus0505
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @sophus0505 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophus0505&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophus0505&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Projects
