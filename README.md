@@ -1,5 +1,8 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @sophus0505 
 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophusbg/)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophus0505&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
