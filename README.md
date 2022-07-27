@@ -24,6 +24,8 @@
 
 [Instagram filters](https://github.com/sophus0505/Instagram-Filter)
 
+[Wikipedia scraper](https://github.com/sophus0505/Wikipedia-Scraper/blob/main/README.md)
+
 ## Bash
 
 [A simple tool to move files across directories and track time spent on different tasks](https://github.com/sophus0505/Bash-Mover-and-Time-Tracker)
