@@ -18,7 +18,7 @@
 
 [Principal component analysis](https://github.com/sophus0505/Principal-Component-Analysis)
 
-[Classification and regression](https://github.com/sophus0505/Classification-and-Regression)
+[Classification and regression from scratch](https://github.com/sophus0505/Classification-and-Regression)
 
 [The travelling salesman problem](https://github.com/sophus0505/Travelling-Salesman-Problem)
 
