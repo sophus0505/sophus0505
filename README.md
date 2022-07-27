@@ -26,6 +26,8 @@
 
 [Wikipedia scraper](https://github.com/sophus0505/Wikipedia-Scraper/blob/main/README.md)
 
+[Six degrees of IMDB](https://github.com/sophus0505/Six-Degrees-of-IMDB)
+
 ## Bash
 
 [A simple tool to move files across directories and track time spent on different tasks](https://github.com/sophus0505/Bash-Mover-and-Time-Tracker)
