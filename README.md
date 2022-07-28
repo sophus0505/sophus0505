@@ -19,6 +19,8 @@
 
 ## Python 
 
+[Backtracking with Armijo's condition](https://github.com/sophus0505/GD-Methods-With-Backtracking-Line-Search)
+
 [Principal component analysis](https://github.com/sophus0505/Principal-Component-Analysis)
 
 [Classification and regression from scratch](https://github.com/sophus0505/Classification-and-Regression)
