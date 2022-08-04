@@ -19,6 +19,8 @@
 
 ## Python 
 
+[Comparing different gradient descent methods with backtracking line search](https://github.com/sophus0505/Backtracking_Line_Search)
+
 [Backtracking with Armijo's condition](https://github.com/sophus0505/GD-Methods-With-Backtracking-Line-Search)
 
 [Principal component analysis](https://github.com/sophus0505/Principal-Component-Analysis)
